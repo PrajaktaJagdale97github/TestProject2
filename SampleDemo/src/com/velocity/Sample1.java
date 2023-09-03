@@ -5,7 +5,7 @@ public class Sample1 {
 		for(int i=1;i<=5;i++) {
 			System.out.println("The value of i is>>"+i);
 		}
-		
+		System.out.println("outside of for loop");
 	}
 
 }
